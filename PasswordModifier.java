@@ -13,8 +13,7 @@ import java.util.*;
 
 /**
  * This class enables you to modify the password.
- * 
- * @author      Sharvai Patil (sp4479@g.rit.edu)
+
  * @author      Pranali Divekar (pd1267@g.rit.edu)
  */
 
