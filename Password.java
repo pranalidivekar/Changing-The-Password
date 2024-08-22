@@ -11,8 +11,7 @@ import java.io.*;
 
 /**
  * This class implements serializable and instantiates the password constructor. 
- * 
- * @author      Sharvai Patil (sp4479@g.rit.edu)
+
  * @author      Pranali Divekar (pd1267@g.rit.edu)
  */
 
