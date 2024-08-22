@@ -13,8 +13,7 @@ import java.util.*;
 
 /**
  * This class writes the password onto a file. 
- * 
- * @author      Sharvai Patil (sp4479@g.rit.edu)
+
  * @author      Pranali Divekar (pd1267@g.rit.edu)
  */
 
